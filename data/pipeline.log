@@ -1,0 +1,8 @@
+2024-01-15 10:23:45 | INFO | user_login | user_id=1001 | ip=192.168.1.10
+2024-01-15 10:24:12 | ERROR | db_connection | user_id=1002 | ip=192.168.1.15
+2024-01-15 10:25:30 | INFO | data_export | user_id=1001 | ip=192.168.1.10
+2024-01-15 10:26:01 | WARNING | slow_query | user_id=1003 | ip=10.0.0.5
+2024-01-15 10:30:00 | INFO | pipeline_start | user_id=1001 | ip=192.168.1.10
+2024-01-15 10:32:15 | INFO | batch_processed | user_id=1001 | ip=192.168.1.10
+2024-01-15 10:33:45 | ERROR | write_failed | user_id=1002 | ip=192.168.1.15
+2024-01-15 10:35:00 | INFO | pipeline_complete | user_id=1001 | ip=192.168.1.10

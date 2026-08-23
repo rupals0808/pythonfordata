@@ -1,0 +1,8 @@
+[
+  {"txn_id": "TXN001", "customer": "Alice Johnson", "product": "Laptop", "quantity": 1, "unit_price": 999.99, "date": "2024-01-15"},
+  {"txn_id": "TXN002", "customer": "Bob Smith", "product": "Mouse", "quantity": 3, "unit_price": 29.99, "date": "2024-01-15"},
+  {"txn_id": "TXN003", "customer": "Alice Johnson", "product": "Keyboard", "quantity": 2, "unit_price": 79.50, "date": "2024-01-16"},
+  {"txn_id": "TXN004", "customer": "Charlie Brown", "product": "Monitor", "quantity": 1, "unit_price": 349.99, "date": "2024-01-16"},
+  {"txn_id": "TXN005", "customer": "Bob Smith", "product": "Headphones", "quantity": 2, "unit_price": 59.99, "date": "2024-01-17"},
+  {"txn_id": "TXN006", "customer": "Diana Prince", "product": "Laptop", "quantity": 1, "unit_price": 999.99, "date": "2024-01-17"}
+]

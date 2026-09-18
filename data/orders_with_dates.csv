@@ -1,0 +1,16 @@
+order_id,customer,product,quantity,unit_price,region,order_timestamp
+ORD001,Alice Johnson,Laptop,1,999.99,north,2024-01-15 09:30:00
+ORD002,Bob Smith,Mouse,3,29.99,south,2024-01-15 14:15:30
+ORD003,Alice Johnson,Keyboard,2,79.50,north,2024-02-10 11:00:00
+ORD004,Charlie Brown,Monitor,1,349.99,east,2024-03-05 16:45:00
+ORD005,Bob Smith,Headphones,2,59.99,south,2024-03-20 08:20:15
+ORD006,Diana Prince,Laptop,1,999.99,north,2024-04-12 13:10:00
+ORD007,Alice Johnson,Mouse,5,29.99,north,2024-05-01 10:00:00
+ORD008,Charlie Brown,Keyboard,1,79.50,east,2024-06-18 15:30:00
+ORD009,Bob Smith,Laptop,1,999.99,south,2024-07-22 09:45:00
+ORD010,Diana Prince,Headphones,3,59.99,north,2024-08-30 11:20:00
+ORD011,Alice Johnson,Monitor,1,349.99,north,2024-09-14 14:00:00
+ORD012,Bob Smith,Mouse,10,29.99,south,2024-10-05 16:30:00
+ORD013,Charlie Brown,Laptop,1,999.99,east,2024-11-11 10:15:00
+ORD014,Diana Prince,Keyboard,4,79.50,north,2024-12-01 09:00:00
+ORD015,Alice Johnson,Headphones,2,59.99,north,2024-12-20 17:45:00

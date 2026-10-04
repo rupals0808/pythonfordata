@@ -1,0 +1,7 @@
+name,age,salary,department,start_date
+  john doe  ,28,$65000.00,engineering,2022-01-15
+JANE SMITH,35,$82500.50,data,2021-06-01
+ Bob Wilson ,N/A,$95000.00,engineering,2020-03-20
+sarah connor,31,$71200.00,unknown,2023-11-10
+  MIKE ROSS  ,38,$88750.25,data,2019-08-15
+,25,$50000.00,hr,2024-02-01

@@ -1,0 +1,16 @@
+order_id,customer,product,quantity,unit_price,region
+ORD001,Alice Johnson,Laptop,1,999.99,north
+ORD002,Bob Smith,Mouse,3,29.99,south
+ORD003,Alice Johnson,Keyboard,2,79.50,north
+ORD004,Charlie Brown,Monitor,1,349.99,east
+ORD005,Bob Smith,Headphones,2,59.99,south
+ORD006,Diana Prince,Laptop,1,999.99,north
+ORD007,Alice Johnson,Mouse,5,29.99,north
+ORD008,Charlie Brown,Keyboard,1,79.50,east
+ORD009,Bob Smith,Laptop,1,999.99,south
+ORD010,Diana Prince,Headphones,3,59.99,north
+ORD011,Alice Johnson,Monitor,1,349.99,north
+ORD012,Bob Smith,Mouse,10,29.99,south
+ORD013,Charlie Brown,Laptop,1,999.99,east
+ORD014,Diana Prince,Keyboard,4,79.50,north
+ORD015,Alice Johnson,Headphones,2,59.99,north
